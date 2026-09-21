@@ -78,4 +78,4 @@ Lithium Battery (+) → Aluminium Foil → LED (+)
 LED (−) → Aluminium Foil → Lithium Battery (−)  
 Note: Use the appropriate LED current-limiting arrangement recommended for the battery/LED being used.  
 **13\. Project Images**  
-![image alt]https://github.com/OvieyaThirupathi/LED-and-Lithium-battery-greeting-card/blob/9221991cc0bc6d648aba941b1080e82ca9e89237/pcard.jpeg)
+![image alt](https://github.com/OvieyaThirupathi/LED-and-Lithium-battery-greeting-card/blob/9221991cc0bc6d648aba941b1080e82ca9e89237/pcard.jpeg)
