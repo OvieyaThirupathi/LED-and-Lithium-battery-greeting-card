@@ -71,20 +71,10 @@ This project demonstrates how basic electrical and electronic concepts can be co
 The project helps in understanding the basic concepts of electric current, conducting materials, battery operation, LED polarity, and simple circuit connections.  
 It also shows that simple electronic components can be used creatively in everyday applications.
 
-**11\. Project Demonstration**  
-Project Video / Demo:  
-\[Add Video Link Here\]
+**12\. Simulation Diagram**  
 
-**12\. Circuit Diagram**  
-\[Add Circuit Diagram Image Here\]  
 Basic connection:  
 Lithium Battery (+) → Aluminium Foil → LED (+)  
 LED (−) → Aluminium Foil → Lithium Battery (−)  
 Note: Use the appropriate LED current-limiting arrangement recommended for the battery/LED being used.  
 **13\. Project Images**  
-Greeting Card Setup  
-\[Add Project Image Here\]  
-Working Project  
-\[Add Image Showing LED Glowing Here\]  
-Final Greeting Card  
-\[Add Final Project Image Here\]  
