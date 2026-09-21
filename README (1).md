@@ -72,7 +72,7 @@ The project helps in understanding the basic concepts of electric current, condu
 It also shows that simple electronic components can be used creatively in everyday applications.
 
 **12\. Simulation Diagram**  
-
+![image alt](https://github.com/OvieyaThirupathi/LED-and-Lithium-battery-greeting-card/blob/af1f4f75993cdd4c5b9586d734cc634130b26c39/scard.jpeg)
 Basic connection:  
 Lithium Battery (+) → Aluminium Foil → LED (+)  
 LED (−) → Aluminium Foil → Lithium Battery (−)  
